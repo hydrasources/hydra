@@ -14,7 +14,7 @@
 [![release](https://img.shields.io/github/package-json/v/hydralauncher/hydra)](https://github.com/hydralauncher/hydra/releases)
 
 [![pt-BR](https://img.shields.io/badge/lang-pt--BR-green.svg)](./docs/README.pt-BR.md)
-[![en](https://img.shields.io/badge/lang-en-red.svg)](./README.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](../README.md)
 [![ru](https://img.shields.io/badge/lang-ru-yellow.svg)](./docs/README.ru.md)
 [![uk-UA](https://img.shields.io/badge/lang-uk--UA-blue)](./docs/README.uk-UA.md)
 [![be](https://img.shields.io/badge/lang-be-orange)](./docs/README.be.md)
